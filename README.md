@@ -1,6 +1,6 @@
 <h1>FIVERR</h1>
 
-Fiverr Clone is a platform developed with the MERN stack. In this project, users can create both seller and regular accounts. Sellers can share their products, and regular users can leave comments and rate these products between 1 and 5 stars.
+Fiverr Clone is a platform developed with the MERN stack. In this project, users can create both seller and regular accounts. Sellers can share their products, and regular users can leave comments and rate these products between 1 and 5 stars. Data is stored in MongoDB, and images are stored in Cloudinary.
 
 The frontend utilizes modern technologies such as Vite, React, Axios, Moment, and Tailwind CSS. The backend is powered by Node.js, Express, and MongoDB. Fiverr Clone offers an excellent experience for both buyers and sellers with its user-friendly interface and robust backend architecture.
 
@@ -11,6 +11,10 @@ The frontend utilizes modern technologies such as Vite, React, Axios, Moment, an
 - CSS
 
 - JavaScript
+
+<h2> Database </h2>
+
+- Mongo DB
 
 <h2> Libraries </h2>
 
@@ -39,6 +43,10 @@ The frontend utilizes modern technologies such as Vite, React, Axios, Moment, an
 - Tailwind CSS
 
 - Vite
+
+<h2>Media Management</h2>
+
+- Cloudinary
 
 <h3> Minor Libraries </h3>
 
