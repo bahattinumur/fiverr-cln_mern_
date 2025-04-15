@@ -10,7 +10,7 @@ The frontend utilizes modern technologies such as Vite, React, Axios, Moment, an
 
 - CSS
 
-- JavaScript
+- TypeScript
 
 <h2> Database </h2>
 
